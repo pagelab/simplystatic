@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://prontosam.netlify.app/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://prontosam.netlify.app/page-sitemap.xml</loc>
 		<lastmod>2024-04-02T22:03:16+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
