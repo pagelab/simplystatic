@@ -318,7 +318,7 @@ div[data-stick-support="on"] .main-header-bar {
 
     #home {
         padding-bottom: 120px;
-        background-image: radial-gradient(115% 75% at 50% 46%, #FFFFFF00 62%, #135029 62%), radial-gradient(65% 65% at 50% 74%, #FFFFFFFF 10%, #fbfbfc 24%, #D6DEE3FF 40%)
+        background-image: radial-gradient(115% 75% at 50% 45%, #FFFFFF00 62%, #135029 62%), radial-gradient(65% 65% at 50% 74%, #FFFFFFFF 10%, #fbfbfc 24%, #D6DEE3FF 40%)
     }
 
     #home h1,
